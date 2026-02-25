@@ -10,6 +10,14 @@ Just call me by Clover. my pronouns are he/him/they/them.
 
 I'm the main developer of the [StarlightKernel project](https://github.com/StarlightKernel), and i was the one who started it. 
 
+My Github Stats:
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
+Check out:
+
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 </div>
 
 <!--
