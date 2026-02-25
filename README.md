@@ -1,4 +1,16 @@
-## Hi there 👋
+<div align="center">
+  
+<img width="1200" height="1000" alt="image" src="https://github.com/user-attachments/assets/596291b4-b4fb-4fea-948a-3743b7f9dc9f" />
+
+## Welcome to my profile!
+
+I'm a developer, one that started learning basic programming stuff, took a break and right after is developing Android stuff.
+
+Just call me by Clover. my pronouns are he/him/they/them.
+
+I'm the main developer of the [StarlightKernel project](https://github.com/StarlightKernel), and i was the one who started it. 
+
+</div>
 
 <!--
 **iamCloverDT/iamCloverDT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
