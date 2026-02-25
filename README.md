@@ -17,7 +17,7 @@ My Github Stats:
 
 Check out:
 
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)(https://github.com/StarlightKernel/android_kernel_motorola_guam-guamp)
 </div>
 
 <!--
