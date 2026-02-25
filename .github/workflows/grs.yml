@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=StarlightKernel&repo=android_kernel_motorola_guam-guamp
+          options: username=StarlightKernel&repo=android_kernel_motorola_guam-guamp&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
